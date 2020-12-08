@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 - an awesome person
 
 <!--
 **5E7EN/5E7EN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
