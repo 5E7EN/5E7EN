@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on YOUR MOM  
+![your mom](https://cdn.discordapp.com/emojis/770060366477918208.gif?v=1)
+
 gempir was here 😎
