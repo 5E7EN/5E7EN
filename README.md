@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-gempir was here 😎
-zneix was here 🐍
+Profile Signatures:
+
+gempir was here 😎  
+flex3rs ran past 🏃‍  
+zneix was here 🐍  
