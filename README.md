@@ -1,10 +1,11 @@
-### Hi there 👋 - an awesome person
+### Hi there 👋
 
-🔭 I’m currently working on THE WORK THAT I'VE BEEN ASSIGNED BY MY BOSS LIKE A GOOD BOY  
-![the work that i've been assigned](https://cdn.discordapp.com/emojis/703817904591863849.gif?v=1)
+🔭 I’m currently working on work.
 
 ### Profile Signatures:
 
-gempir was here 😎  
-flex3rs ran past 🏃‍  
-zneix was here 🐍  
+gempir was here 😎 ([#1](/../../issues/1))  
+flex3rs ran past 🏃‍ ([#4](/../../issues/4))  
+zneix was here 🐍 ([#5](/../../issues/5))  
+tranred was also here, but in a special way 👕 ([#2](/../../issues/2))  
+randers was here. he was. ([#3](/../../issues/3) - (bonus meme: [click here for meme](https://en.wikipedia.org/wiki/Randers)))  
