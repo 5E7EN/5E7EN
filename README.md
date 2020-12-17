@@ -2,6 +2,10 @@
 
 🔭 I’m currently working on work.
 
+### Stats
+![](https://komarev.com/ghpvc/?username=5E7EN&color=blue)
+
+
 ### Profile Signatures:
 
 gempir was here 😎 ([#1](/../../issues/1))  
