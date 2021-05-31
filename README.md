@@ -1,15 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on work.
+🔭 Hi there
 
-### Stats
-![](https://komarev.com/ghpvc/?username=5E7EN&color=blue)
+### About
 
-
-### Profile Signatures:
-
-gempir was here 😎 ([#1](/../../issues/1))  
-flex3rs ran past 🏃‍ ([#4](/../../issues/4))  
-zneix was here 🐍 ([#5](/../../issues/5))  
-tranred was also here, but in a special way 👕 ([#2](/../../issues/2))  
-randers was here too. ([#3](/../../issues/3))
+![Metrics](https://metrics.lecoq.io/5e7en?template=terminal&base.metadata=0&languages=1&languages.skipped=5e7en&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)
